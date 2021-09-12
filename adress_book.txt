@@ -1,0 +1,12 @@
+name = korak 
+age = 25 
+adress = almania 
+tel = 123434512 
+work = developer 
+________________________ : 
+name = sara 
+age = 26 
+adress = slemani 
+tel = 345623456 
+work = kasher 
+________________________ : 
